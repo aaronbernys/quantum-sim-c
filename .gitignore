@@ -1,0 +1,4 @@
+*.o
+*.pdf
+echo.c
+notes.md
