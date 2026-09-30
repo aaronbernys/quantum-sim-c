@@ -2,3 +2,4 @@
 *.pdf
 echo.c
 notes.md
+build/
